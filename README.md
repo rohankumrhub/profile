@@ -1,3 +1,6 @@
+<h1>Hi 👋, I'm Rohan kumar gautam</h1>
+<h3>A passionate frontend developer from India</h3>
+
 # 💫 About Me:
 🔭 I’m currently working on React projects<br>🌱 I’m currently learning next js, redux<br>👨‍💻 All of my projects are available at https://rohankumr.netlify.app/<br>💬 Ask me about Html, Css, Figma, Javascript<br>📫 How to reach me rohankumr5080@gmail.com<br>⚡ Fun fact I think i am a creative person<br>
 
@@ -15,4 +18,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=rohankumrhub&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
